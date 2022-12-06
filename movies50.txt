@@ -1,0 +1,30 @@
+UserId,Title ID,VideoTitles,VideoCategory,Region,DeviceType,StreamType,StreamBandwidth,StreamingProtocol,VideoPlayedTime
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,80980,Acosada ,Thriller,UK,tablet,SD,600,Shoutcast,5/15/12 17:08
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,8634,Cinematic Eye ,Comedy,CN,tv,HD,1200,Shoutcast,12/30/13 14:47
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,12262,Die Chefin ,Documentary,CN,web,SD,1200,Shoutcast,5/1/12 14:49
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,20978,Horizon (1964) {The Hunt for the Higgs ,Documentary,UK,tv,SD,1200,Shoutcast,1/16/12 8:37
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,73769,A Raffle for a Husband ,Drama,DE,gaming console,HD,400,Shoutcast,7/22/13 10:01
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,3602,Armchair Theatre ,Comedy,UK,tv,SD,1200,HTTP,8/31/12 19:44
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,70985,A Lucky Break ,Drama,CA,gaming console,HD,800,Shoutcast,2/26/13 13:42
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,18185,Giganten (2007) {Einstein - Superstar der Wissenschaft ,Action,US,tv,HD,1200,RTSP,8/16/13 11:35
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,58387,101 Biggest Celebrity Oops (2004) ,Adult,UK,gaming console,SD,1200,HTTP,8/21/12 13:23
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,68034,A Faucet Drips ,Short,UK,tv,HD,1200,HTTP,11/4/13 15:30
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,3277,Ant & Dec's Push the Button ,Talk-Show,CA,web,SD,800,RTSP,5/1/13 1:09
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,70283,A Largada das ??guias ,Drama,US,gaming console,SD,800,HTTP,2/26/13 21:20
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,56697,#3c ,Short,CA,phone,SD,400,Shoutcast,5/3/13 12:45
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,51022,Time Traveling Finger ,Sci-Fi,FR,tv,SD,800,Shoutcast,12/17/13 13:37
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,55517,Xailes Negros ,Family,UK,phone,HD,800,HTTP,4/13/12 8:48
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,75318,A Split Personality ,Drama,IN,phone,SD,1000,HTTP,1/30/13 10:52
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,59025,15 Ans de Reconstruction du Pays ,Romance,CA,tv,HD,400,Shoutcast,7/29/13 23:21
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,81791,Addiction (2008) ,Crime,US,phone,HD,1200,Shoutcast,12/11/13 2:49
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,56922,'Der Schlunz - Die Serie' - Making of (2012) ,Documentary,CN,gaming console,HD,800,Shoutcast,5/30/13 15:04
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,23430,John Doe (2002) {Pilot ,Mystery,CA,tv,HD,1200,Shoutcast,4/9/13 19:24
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,63649,7 Wise Dwarfs ,Drama,DE,web,SD,800,RTSP,10/28/12 19:59
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,5457,Bibaboerderij ,Action,CA,tablet,SD,600,Shoutcast,6/30/12 5:16
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,62034,311: Koko ni ikiru ,Music,DE,tablet,HD,1200,RTSP,12/8/12 8:19
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,79990,About the Dollars ,Comedy,FR,phone,SD,1200,RTSP,4/29/13 6:28
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,44158,Takeshi's Castle ,Action,DE,gaming console,SD,1200,RTSP,10/10/12 15:58
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,25296,Kung Tai Ted ,Action,DE,phone,SD,800,RTSP,10/28/12 10:45
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,47496,The Hollow Crown ,Musical,CN,web,SD,600,RTSP,1/13/13 16:26
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,39954,Scorch ,Game-Show,CN,phone,SD,1200,Shoutcast,11/18/13 22:11
+a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,8460,Chris & Josh ,Comedy,CA,tablet,SD,600,HTTP,4/27/13 7:01
