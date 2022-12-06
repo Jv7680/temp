@@ -1,4 +1,3 @@
-UserId,Title ID,VideoTitles,VideoCategory,Region,DeviceType,StreamType,StreamBandwidth,StreamingProtocol,VideoPlayedTime
 a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,80980,Acosada ,Thriller,UK,tablet,SD,600,Shoutcast,5/15/12 17:08
 a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,8634,Cinematic Eye ,Comedy,CN,tv,HD,1200,Shoutcast,12/30/13 14:47
 a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,12262,Die Chefin ,Documentary,CN,web,SD,1200,Shoutcast,5/1/12 14:49
@@ -19,12 +18,3 @@ a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,59025,15 Ans de Reconstruction du Pays ,Rom
 a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,81791,Addiction (2008) ,Crime,US,phone,HD,1200,Shoutcast,12/11/13 2:49
 a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,56922,'Der Schlunz - Die Serie' - Making of (2012) ,Documentary,CN,gaming console,HD,800,Shoutcast,5/30/13 15:04
 a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,23430,John Doe (2002) {Pilot ,Mystery,CA,tv,HD,1200,Shoutcast,4/9/13 19:24
-a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,63649,7 Wise Dwarfs ,Drama,DE,web,SD,800,RTSP,10/28/12 19:59
-a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,5457,Bibaboerderij ,Action,CA,tablet,SD,600,Shoutcast,6/30/12 5:16
-a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,62034,311: Koko ni ikiru ,Music,DE,tablet,HD,1200,RTSP,12/8/12 8:19
-a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,79990,About the Dollars ,Comedy,FR,phone,SD,1200,RTSP,4/29/13 6:28
-a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,44158,Takeshi's Castle ,Action,DE,gaming console,SD,1200,RTSP,10/10/12 15:58
-a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,25296,Kung Tai Ted ,Action,DE,phone,SD,800,RTSP,10/28/12 10:45
-a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,47496,The Hollow Crown ,Musical,CN,web,SD,600,RTSP,1/13/13 16:26
-a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,39954,Scorch ,Game-Show,CN,phone,SD,1200,Shoutcast,11/18/13 22:11
-a81ff99c-79ca-4d8a-8070-c28e3dc5f8ee,8460,Chris & Josh ,Comedy,CA,tablet,SD,600,HTTP,4/27/13 7:01
